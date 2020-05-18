@@ -46,7 +46,7 @@ difficulty=0
 port=7777
 
 #Set the server password
-#password=p@55w0rd
+password=jojosquanch
 
 #Set the message of the day
 motd=Please don’t cut the purple trees!
